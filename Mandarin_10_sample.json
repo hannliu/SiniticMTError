@@ -1,0 +1,221 @@
+[
+  {
+    "id": 968,
+    "src": "They are listed on the UNESCO World Heritage List.",
+    "mt": "他们被列入联合国教科文组织世界遗产名单.",
+    "ref": "它们被列入了联合国教科文组织世界遗产名录。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "他们",
+        "start_index": 0,
+        "end_index": 2,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "名单",
+        "start_index": 17,
+        "end_index": 19,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "src": "When the tenants started sharing what had occurred to them, most of the families involved suddenly realized that Carolyn Wilson of the OHA had stolen their security deposits, and skipped out of town.",
+    "mt": "当租户开始分享他们想到的情况时,大多数家庭突然意识到OHA的卡罗琳·威尔逊偷了他们的保险存款,离开了城市.",
+    "ref": "房客们开始聊起身边趣闻，这时大部分涉事家庭突然意识到，OHA 的卡罗琳·威尔逊私吞了他们的押金，溜出城去了。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "想到的",
+        "start_index": 9,
+        "end_index": 12,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "涉事",
+        "start_index": 19,
+        "end_index": 21,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "保险存款",
+        "start_index": 44,
+        "end_index": 48,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "src": "When all individuals in a population are identical with regard to a particular phenotypic trait they are known as monomorphic.",
+    "mt": "当一个群体中的所有个体在特定的现象特征方面都是一样的时,它们被称为单形.",
+    "ref": "当种群中的所有个体在某一特定表型性状上完全相同时，就称之为单型。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "现象特征",
+        "start_index": 15,
+        "end_index": 19,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "形",
+        "start_index": 34,
+        "end_index": 35,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 1550,
+    "src": "At the same time, the German navy, using mainly U-boats, was trying to stop this traffic.",
+    "mt": "与此同时,德国海军主要使用潜艇,试图阻止这种交通.",
+    "ref": "与此同时，以 U 型潜艇为主力的德国海军试图拦截这场运输。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "潜艇",
+        "start_index": 13,
+        "end_index": 15,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "阻止",
+        "start_index": 18,
+        "end_index": 20,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "src": "This letter must be legalized by the Ecuadorian Ministry of Foreign Affairs, and comply with certain requirements.",
+    "mt": "这封信必须由厄瓜多尔外交部合法化,并符合某些要求.",
+    "ref": "该函必须经厄瓜多尔外交部批准，并符合某些要求。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "合法化",
+        "start_index": 13,
+        "end_index": 16,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      }
+    ]
+  },
+  {
+    "id": 978,
+    "src": "They are separate from lingua francas, which are natural or organic languages that become dominant for one reason or another as means of communication between speakers of other languages.",
+    "mt": "他们与 lingua francasen分开,这些是自然或有机语言,由于某种原因成为其他语言说者之间的沟通手段的主导.",
+    "ref": "他们不同于通用语。通用语是一种自然的或逐步形成的语言，由于各种原因成为其他语言使用者之间交流的主要手段。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "lingua francasen",
+        "start_index": 4,
+        "end_index": 20,
+        "error_type": "Untranslated",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "自然",
+        "start_index": 26,
+        "end_index": 28,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "有机",
+        "start_index": 29,
+        "end_index": 31,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "主导",
+        "start_index": 56,
+        "end_index": 58,
+        "error_type": "Grammar",
+        "error_severity": "Major"
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "src": "The 802.11n standard operates on both the 2.4Ghz and 5.0Ghz frequencies.",
+    "mt": "802.11n标准在2.4Ghz和5.0Ghz频率上运行.",
+    "ref": "802.11n 标准在 2.4Ghz 和 5.0Ghz 频率上都可运行。",
+    "annotatedSpans": []
+  },
+  {
+    "id": 1981,
+    "src": "As light pollution in their heyday was not the kind of problem it is today, they are usually located in cities or at campuses, easier to reach than those built in modern times.",
+    "mt": "由于光污染在盛时期并不是如今的问题,它们通常位于城市或校园,比现代建筑更容易接触到.",
+    "ref": "由于在其全盛时期的光污染还不像现在这么严重，所以天文台通常建立在城区或校园内，比现代修建的天文台更容易到达。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "盛时期",
+        "start_index": 6,
+        "end_index": 9,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "如今的问题",
+        "start_index": 12,
+        "end_index": 17,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "接触到",
+        "start_index": 38,
+        "end_index": 41,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 1161,
+    "src": "After officials verify the voter's identity, the voter drops the envelope into the ballot box and signs the voting roll.",
+    "mt": "官员确认选民身份后,选民将封信放入投票箱,并签署投票表.",
+    "ref": "官员核实投票者的身份后，投票者将信封投入投票箱，并在投票册上签名。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "封信",
+        "start_index": 13,
+        "end_index": 15,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "投票表",
+        "start_index": 24,
+        "end_index": 27,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 923,
+    "src": "While most cards are good for calling anywhere, some specialise in providing favourable call rates to specific groups of countries.",
+    "mt": "虽然大多数卡是适合在任何地方打电话的,但有些专门为特定国家群体提供有利的电话率.",
+    "ref": "尽管大多数电话卡适合给任何地方打电话，但有些卡在拨打一些特定国家的电话时有特别优惠。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "电话率",
+        "start_index": 36,
+        "end_index": 39,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  }
+]

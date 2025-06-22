@@ -1,0 +1,439 @@
+[
+  {
+    "id": 35,
+    "src": "Two beams of light have been rigged up to point skywards overnight.",
+    "mt": "兩條光線被裝成 針對夜晚嘅天空",
+    "ref": "兩束光喺一夜間被組裝起嚟指向天空。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "夜晚嘅",
+        "start_index": 16,
+        "end_index": 19,
+        "error_type": "Addition",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "，",
+        "start_index": 12,
+        "end_index": 13,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "喺一夜之間",
+        "start_index": 4,
+        "end_index": 9,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "針對",
+        "start_index": 14,
+        "end_index": 16,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "。",
+        "start_index": 21,
+        "end_index": 22,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "裝成",
+        "start_index": 10,
+        "end_index": 12,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "src": "After it became apparent that many families were seeking legal help to fight the evictions, a meeting was held on March 20 at the East Bay Community Law Center for the victims of the housing scam.",
+    "mt": "發現好多家庭 尋求法律幫助 嚟應對流離失所之後",
+    "ref": "明顯好多家庭都喺度尋求法律援助嚟對抗驅逐，之後 3 月 20 日喺東灣社區法律中心幫房屋騙局嘅受害者舉行咗一次會議。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "，3月20日就喺東灣社區法律中心幫助房屋騙局嘅受害者舉行咗一次會議。",
+        "start_index": 28,
+        "end_index": 62,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "當明顯",
+        "start_index": 0,
+        "end_index": 3,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "流離失所",
+        "start_index": 22,
+        "end_index": 26,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "src": "During his 2 hour speech he stated that \"Today Apple is going to reinvent the phone, We are going to make history today\".",
+    "mt": "佢喺佢兩小時嘅演講裏面話:\"今日果會重新發明手機,",
+    "ref": "佢喺兩個鐘嘅演講入面話：「今日，蘋果將會重新發明手機，今日，我哋將會創造歷史。」",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "小時",
+        "start_index": 4,
+        "end_index": 6,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "蘋",
+        "start_index": 16,
+        "end_index": 17,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "\"",
+        "start_index": 13,
+        "end_index": 14,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "今日我哋將會創造歷史",
+        "start_index": 26,
+        "end_index": 36,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "。",
+        "start_index": 36,
+        "end_index": 37,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "」",
+        "start_index": 37,
+        "end_index": 38,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "src": "Until now, AOL has been able to move and develop the IM market at its own pace, due to its widespread use within the United States.",
+    "mt": "到目前為止,AOL 能夠以自己速度推動同發展 IM 市場,因為它在美國廣泛使用.",
+    "ref": "直到現時為止，由於AOL喺美國得到廣泛使用，佢已經可以按自己嘅節凑去行動同開發 IM 市場。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "直",
+        "start_index": 0,
+        "end_index": 1,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "它",
+        "start_index": 32,
+        "end_index": 33,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "在",
+        "start_index": 33,
+        "end_index": 34,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "得到",
+        "start_index": 36,
+        "end_index": 38,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "src": "The hearing also marks the date for the suspect’s right to a speedy trial.",
+    "mt": "聽證會亦係指名嫌疑人有權接受快速審理嘅日期",
+    "ref": "聆訊亦都代表疑犯有權得到快速審判嘅日期。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "。",
+        "start_index": 21,
+        "end_index": 22,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "聽證會",
+        "start_index": 0,
+        "end_index": 3,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "指名",
+        "start_index": 5,
+        "end_index": 7,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "接受",
+        "start_index": 12,
+        "end_index": 14,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "src": "This contradicts earlier reports, which said that cancelling the runoff would have been against the constitution.",
+    "mt": "呢個同以前嘅報告相反",
+    "ref": "噉同早前嘅報導互相矛盾，呢份報導話取消第二輪投票違反憲法。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "，呢份報導話取消第二輪投票係會違反憲法嘅。",
+        "start_index": 10,
+        "end_index": 31,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "相反",
+        "start_index": 8,
+        "end_index": 10,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "src": "At exactly 8:46 a.m. a hush fell across the city, marking the exact moment the first jet struck its target.",
+    "mt": "正確喺早上8點46分 城市就有沉默 標誌咗第一架飛機撞擊目標嘅時刻",
+    "ref": "朝早嘅8點46分，全城一片寂靜，標誌著第一架飛機襲擊目標嘅時刻。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "。",
+        "start_index": 35,
+        "end_index": 36,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "，",
+        "start_index": 18,
+        "end_index": 19,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "，",
+        "start_index": 10,
+        "end_index": 11,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "就有沉默",
+        "start_index": 14,
+        "end_index": 18,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "撞",
+        "start_index": 28,
+        "end_index": 29,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "確",
+        "start_index": 1,
+        "end_index": 2,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "早上",
+        "start_index": 3,
+        "end_index": 5,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "src": "The game is based on the Second Battle of Fallujah, a vicious battle between American and Iraqi forces.",
+    "mt": "遊戲以第二場法魯吉亞戰爭為基礎",
+    "ref": "呢隻遊戲係以美軍同伊拉克部隊之間嘅激戰——第二次費盧傑戰役為藍本。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "，係美軍同伊拉克部隊之間嘅激烈戰爭。",
+        "start_index": 17,
+        "end_index": 35,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "呢隻",
+        "start_index": 0,
+        "end_index": 2,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "法魯吉亞",
+        "start_index": 8,
+        "end_index": 12,
+        "error_type": "Spelling",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "基礎",
+        "start_index": 15,
+        "end_index": 17,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "src": "Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.",
+    "mt": "大概11時29分,抗議者移動到惠特哈爾,過特拉法爾加廣場,沿海沙灘,經過阿爾迪維奇,再上基斯維,前往霍爾本,",
+    "ref": "11點29分左右，抗議人士沿住白廳經過特拉法加廣場、斯特蘭德（ Strand ）、奥德维奇（ Aldwych ）、金斯威（ Kingsway ）走去霍本（ Holborn ），保守黨喺干諾大酒店（ Grand Connaught Rooms ）舉行春季論壇。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "惠特哈爾",
+        "start_index": 15,
+        "end_index": 19,
+        "error_type": "Spelling",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "經",
+        "start_index": 20,
+        "end_index": 21,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "特拉法爾加",
+        "start_index": 22,
+        "end_index": 27,
+        "error_type": "Spelling",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "海沙灘",
+        "start_index": 31,
+        "end_index": 34,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "阿爾迪維奇",
+        "start_index": 37,
+        "end_index": 42,
+        "error_type": "Spelling",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "基斯維",
+        "start_index": 45,
+        "end_index": 48,
+        "error_type": "Spelling",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "霍爾本",
+        "start_index": 51,
+        "end_index": 54,
+        "error_type": "Spelling",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "即係保守黨喺干諾大酒店舉行春季論壇嘅地方。",
+        "start_index": 55,
+        "end_index": 76,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "src": "According to Ansa, \"police were concerned by a couple of top-level hits they feared might spark a full-blown war of succession.",
+    "mt": "根據安薩嘅說法, \"警察擔心 兩起高級槍擊案可能會引發一場完整嘅繼承戰爭",
+    "ref": "安莎通訊社表示：「警方對接連發生嘅高層刺殺行動表示關注，並擔心呢個可能會觸發黨內因為奪權而大開殺戒。」",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "通訊社",
+        "start_index": 4,
+        "end_index": 7,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "」",
+        "start_index": 40,
+        "end_index": 41,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "。",
+        "start_index": 39,
+        "end_index": 40,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "完整",
+        "start_index": 32,
+        "end_index": 34,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "兩起",
+        "start_index": 18,
+        "end_index": 20,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "高級",
+        "start_index": 20,
+        "end_index": 22,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "\"",
+        "start_index": 12,
+        "end_index": 13,
+        "error_type": "Typography",
+        "error_severity": "Minor"
+      }
+    ]
+  }
+]

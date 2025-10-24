@@ -1,0 +1,243 @@
+[
+  {
+    "id": 2,
+    "src": "Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.",
+    "mt": "领头个研究员讲，搿能可能帮低收入国家病人早点查出癌症、肺结核、HIV搭疟疾——比方讲乳腺癌个存活率，穷国家可能只有发达国家一半。",
+    "ref": "首席研究者认为伊作兴可以勒低收入国家稍为早发现癌症、肺结核、艾滋病、疟疾个病人，伊拉个乳腺癌等疾病个治愈率是只富裕个国家个一半。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "个",
+        "start_index": 18,
+        "end_index": 19,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "， 格些国家个乳腺癌等疾病个存活率",
+        "start_index": 38,
+        "end_index": 55,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "富裕",
+        "start_index": 57,
+        "end_index": 59,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "个",
+        "start_index": 61,
+        "end_index": 62,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "src": "The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.",
+    "mt": "JAS 39C鹰狮战斗机勒当地时间早上九点半（UTC 02:30）撞跑道炸开来，机场只好拿商业航班侪停脱。",
+    "ref": "JAS 39C 鹰狮战斗机勒当地辰光差弗多早晨九点半（中央时间两点半）撞向飞机跑道爆炸，葛咾商业航班个机场关闭。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "辰光",
+        "start_index": 15,
+        "end_index": 17,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "差弗多",
+        "start_index": 17,
+        "end_index": 20,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "src": "The pilot was identified as Squadron Leader Dilokrit Pattavee.",
+    "mt": "飞行员确认是空军中队指挥官迪洛克里特·帕塔维。",
+    "ref": "搿只飞行员拨认为是空军中队长迪罗克利特帕塔维（Dilokrit Pattavee）。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "迭",
+        "start_index": 0,
+        "end_index": 1,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "被",
+        "start_index": 4,
+        "end_index": 4,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "拨",
+        "start_index": 4,
+        "end_index": 5,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "src": "28-year-old Vidal had joined Barça three seasons ago, from Sevilla.",
+    "mt": "28岁个比达尔三个赛季前从塞维利亚转会到巴塞罗那队。",
+    "ref": "塞尔维亚报道，28岁个维达尔（Vidal）勒三只赛季前头加进巴塞罗那。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "勒",
+        "start_index": 7,
+        "end_index": 8,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "src": "Since moving to the Catalan-capital, Vidal had played 49 games for the club.",
+    "mt": "自从搬到加泰罗尼亚首府之后，比达尔为俱乐部踢过49场比赛。",
+    "ref": "自从维达尔（Vidal）转去加泰罗尼亚首都队，伊已经拨俱乐部打仔49场比赛哉。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "转",
+        "start_index": 2,
+        "end_index": 3,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "队",
+        "start_index": 11,
+        "end_index": 12,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "已经拨",
+        "start_index": 18,
+        "end_index": 21,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "打了",
+        "start_index": 24,
+        "end_index": 26,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "了",
+        "start_index": 31,
+        "end_index": 32,
+        "error_type": "Omission",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "src": "Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.",
+    "mt": "大约11点29分，示威队伍沿白厅北上，经过特拉法加广场、河滨街，绕过奥德维奇，再沿金斯威朝霍尔本方向走——保守党勒大康诺特厅酒店开春季论坛。",
+    "ref": "差弗多十一点廿九分，抗议个人行过怀特霍尔街，走过特拉法加广场，沿着河岸穿过霍尔本个奥尔德威治脱金斯威。勒伊面个康诺特大酒店，保守党举办伊拉个春季论坛。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "差弗多",
+        "start_index": 0,
+        "end_index": 3,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "src": "The jail became notorious after prisoner abuse was discovered there after US forces took over.",
+    "mt": "哪能座监狱垃美国军队占领后因为囚犯虐待事件而出名。",
+    "ref": "美国军队接管后头出现个犯人虐待事件拨发现之后，搿只监牢声名侪坏了。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "搿事体",
+        "start_index": 19,
+        "end_index": 22,
+        "error_type": "Spelling",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "名头坏脱了",
+        "start_index": 23,
+        "end_index": 28,
+        "error_type": "Mistranslation",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "src": "The storm, situated about 645 miles (1040 km) west of the Cape Verde islands, is likely to dissipate before threatening any land areas, forecasters say.",
+    "mt": "飓风现在距离佛得角群岛西边大约645英里（1040公里），预报员说颕会垃威胁任何陆地之前消散。",
+    "ref": "天气预报员话，勒佛得角群岛往西差弗多645英里（1040千米）个暴风雨蛮有作兴勒拉浇到任何陆地个前头侪消散脱仔。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "差弗多",
+        "start_index": 13,
+        "end_index": 16,
+        "error_type": "Register",
+        "error_severity": "Minor"
+      },
+      {
+        "error_text_segment": "作兴",
+        "start_index": 35,
+        "end_index": 37,
+        "error_type": "Omission",
+        "error_severity": "Major"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "src": "Fred currently has winds of 105 miles per hour (165 km/h) and is moving towards the northwest.",
+    "mt": "弗雷德目前风速达每小时105英里（165公里），正向西北方向移动。",
+    "ref": "弗雷德是最近移动速度105英里每只钟头（165千米每只钟头）个大风，伊要往西北方向移动。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "朝",
+        "start_index": 25,
+        "end_index": 26,
+        "error_type": "Register",
+        "error_severity": "Minor"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "src": "The hearing also marks the date for the suspect’s right to a speedy trial.",
+    "mt": "这场听证会也标志着嫌犯有权要求快速审判个起始日期。",
+    "ref": "听证会也标志怀疑对象获得快速审判权利个日期。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "获得快速审判个权利个",
+        "start_index": 11,
+        "end_index": 21,
+        "error_type": "Mistranslation",
+        "error_severity": "Major"
+      },
+      {
+        "error_text_segment": "起始",
+        "start_index": 21,
+        "end_index": 23,
+        "error_type": "Addition",
+        "error_severity": "Minor"
+      }
+    ]
+  }
+]

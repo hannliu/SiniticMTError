@@ -1,0 +1,252 @@
+[
+  {
+    "id": "0",
+    "src": "頭髮留那麼長還不剪，莫非是想把錢省下來買花生糖吃。",
+    "mt": "頭毛留甲遐爾長毋去鉸，敢是欲儉錢來買塗豆麩食？",
+    "ref": "頭毛留長長，儉錢食塗豆糖。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "塗豆麩",
+        "error_severity": "Major",
+        "start_index": 18,
+        "end_index": 21,
+        "error_type": "Accuracy/Mistranslation"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "src": "每一個人都有一項才藝，空閒的時候姑且耍弄耍弄。",
+    "mt": "逐个人攏有一項工夫，無代誌就𨑨迌一下𨑨迌一下。",
+    "ref": "一人占一項，閒閒罔變弄。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "工夫",
+        "error_severity": "Minor",
+        "start_index": 7,
+        "end_index": 9,
+        "error_type": "Fluency/Register"
+      },
+      {
+        "error_text_segment": "無代誌",
+        "error_severity": "Minor",
+        "start_index": 10,
+        "end_index": 13,
+        "error_type": "Fluency/Register"
+      },
+      {
+        "error_text_segment": "𨑨迌一下𨑨迌一下",
+        "error_severity": "Minor",
+        "start_index": 14,
+        "end_index": 22,
+        "error_type": "Accuracy/Omission"
+      },
+      {
+        "error_text_segment": "𨑨迌一下𨑨迌一下",
+        "error_severity": "Minor",
+        "start_index": 14,
+        "end_index": 22,
+        "error_type": "Purity/None"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "src": "天花板與屋頂之間的空間可以儲藏一些東西。",
+    "mt": "天篷佮厝頂之間有夠額的空間通囥一寡物件。",
+    "ref": "樓栱會使囥一寡仔物件。",
+    "score7": 5.95,
+    "score100": 99.17,
+    "annotatedSpans": [
+      {
+        "error_text_segment": "有夠額",
+        "error_severity": "Minor",
+        "start_index": 7,
+        "end_index": 10,
+        "error_type": "Accuracy/Addition"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "src": "他是一個好像樣樣懂卻沒有一項專精的傢伙。",
+    "mt": "伊是一个若像啥物攏捌、啥物都無通的柴頭人。",
+    "ref": "伊是一个雜菜麵的跤數。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "無通",
+        "error_severity": "Major",
+        "start_index": 14,
+        "end_index": 16,
+        "error_type": "Accuracy/Mistranslation"
+      },
+      {
+        "error_text_segment": "柴頭人",
+        "error_severity": "Major",
+        "start_index": 17,
+        "end_index": 20,
+        "error_type": "Accuracy/Mistranslation"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "src": "早晨出現紅霞，就會下雨；黃昏出現紅霞，烈日當空。",
+    "mt": "早起時看著紅霞，落雨矣；暗頭仔看著紅霞，火燒埔。",
+    "ref": "日出紅霞，水淋頭額；日落紅霞，曝死老爺。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "看著",
+        "error_severity": "Minor",
+        "start_index": 3,
+        "end_index": 5,
+        "error_type": "Accuracy/Addition"
+      },
+      {
+        "error_text_segment": "落雨矣",
+        "error_severity": "Major",
+        "start_index": 8,
+        "end_index": 11,
+        "error_type": "Fluency/Grammar"
+      },
+      {
+        "error_text_segment": "看著",
+        "error_severity": "Minor",
+        "start_index": 15,
+        "end_index": 17,
+        "error_type": "Accuracy/Addition"
+      },
+      {
+        "error_text_segment": "火燒埔",
+        "error_severity": "Minor",
+        "start_index": 20,
+        "end_index": 23,
+        "error_type": "Fluency/Register"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "src": "再怎麼說也無法改變他的想法，實在非常愚鈍又頑固。",
+    "mt": "閣按怎講嘛無法度共伊的想法變予伊好，實在真戇呆閣硬拗。",
+    "ref": "伊較講都講袂翻捙，有夠聬儱。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "閣",
+        "error_severity": "Minor",
+        "start_index": 0,
+        "end_index": 1,
+        "error_type": "Fluency/Grammar"
+      },
+      {
+        "error_text_segment": "共",
+        "error_severity": "Minor",
+        "start_index": 8,
+        "end_index": 9,
+        "error_type": "Accuracy/Addition"
+      },
+      {
+        "error_text_segment": "變予伊好",
+        "error_severity": "Minor",
+        "start_index": 13,
+        "end_index": 17,
+        "error_type": "Accuracy/Addition"
+      },
+      {
+        "error_text_segment": "硬拗",
+        "error_severity": "Major",
+        "start_index": 24,
+        "end_index": 26,
+        "error_type": "Accuracy/Mistranslation"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "src": "人家俗話說「輸給某人無所謂，別排在最後，在最後一名就太難看了」，我們就得要努力點。",
+    "mt": "人講「食緊挵破碗」，咱著愛較拍拚咧。",
+    "ref": "人講「輸人毋輸陣，輸陣歹看面」，咱著愛較拍拚咧。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "食緊挵破碗",
+        "error_severity": "Major",
+        "start_index": 3,
+        "end_index": 8,
+        "error_type": "Accuracy/Mistranslation"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "src": "犯罪的人，要隨時有認罪並接受法律制裁的準備。",
+    "mt": "犯法的人，愛隨有認毋著閣來受法律的制裁的準備。",
+    "ref": "犯法的人，隨時愛準備食罪。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "隨",
+        "error_severity": "Minor",
+        "start_index": 6,
+        "end_index": 7,
+        "error_type": "Fluency/Register"
+      },
+      {
+        "error_text_segment": "認毋著",
+        "error_severity": "Minor",
+        "start_index": 8,
+        "end_index": 11,
+        "error_type": "Fluency/Register"
+      },
+      {
+        "error_text_segment": "閣來",
+        "error_severity": "Major",
+        "start_index": 11,
+        "end_index": 13,
+        "error_type": "Accuracy/Mistranslation"
+      },
+      {
+        "error_text_segment": "的",
+        "error_severity": "Minor",
+        "start_index": 16,
+        "end_index": 17,
+        "error_type": "Accuracy/Addition"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "src": "時機很不好，害我各種行業都做過了也沒輒。",
+    "mt": "時機真䆀，害我做甲百行無半步。",
+    "ref": "時機誠䆀，害我十二生相變透透嘛變無撚。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "做甲百行",
+        "error_severity": "Major",
+        "start_index": 7,
+        "end_index": 11,
+        "error_type": "Accuracy/Mistranslation"
+      },
+      {
+        "error_text_segment": "無半步",
+        "error_severity": "Major",
+        "start_index": 11,
+        "end_index": 14,
+        "error_type": "Accuracy/Mistranslation"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "src": "家中二妻爭執，因互相謾罵而使得家醜外揚。",
+    "mt": "厝內二个某咧冤家，因為相罵甲流目屎，予人看笑詼。",
+    "ref": "一某無人知，兩某相卸代。",
+    "annotatedSpans": [
+      {
+        "error_text_segment": "",
+        "error_severity": "No-error",
+        "start_index": 0,
+        "end_index": 0,
+        "error_type": "No-error/"
+      }
+    ]
+  }
+]

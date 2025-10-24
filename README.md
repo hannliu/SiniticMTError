@@ -1,6 +1,6 @@
-# SiniticMTError Annotation Sample (Mandarin & Cantonese)
+# SiniticMTError Annotation Sample
 
-This repository contains a **preliminary sample** of our **SiniticMTError** dataset, focusing on Mandarin and Cantonese.
+This repository contains a **preliminary sample** of our **SiniticMTError** dataset, focusing on Mandarin, Cantonese, Wu Chinese, and Hokkien.
 
 ## Dataset Info
 
@@ -18,11 +18,15 @@ Each example includes:
 Annotations were provided by trained annotators following our proposed guidelines. This sample includes:
 - 10 examples in **Mandarin**
 - 10 examples in **Cantonese**
+- 10 examples in **Wu Chinese**
+- 10 examples in **Hokkien**
 
 ## Files
 
 - `Mandarin_10_sample.json`: 10 Mandarin examples
 - `Cantonese_10_sample.json`: 10 Cantonese examples
+- `Wu_10_sample.json`: 10 Wu Chinese examples
+- `Hokkien_10_sample.json`: 10 Hokkien examples
 
 ## Example Format
 

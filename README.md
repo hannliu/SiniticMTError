@@ -4,7 +4,7 @@ This repository provides preliminary data for the paper:
 
 - Liu, H., Min, J., Cheung, E. Y. H., Hung, S. Y., Wasti, S. M., Liang, R., ... & Lee, E. S. A. (2025). [SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages](https://arxiv.org/abs/2509.20557v1). arXiv preprint arXiv:2509.20557.
 
-We release current Mandarin and Cantonese annotations with 2009 and 1402 annotated sentences, respectively.
+We release current Mandarin, Cantonese, and Wu Chinese annotations with 2009, 1402, and 68 annotated sentences, respectively.
 
 ## Example
 Each datapoint consists of:
